@@ -1,0 +1,10 @@
+# Java
+.gradle/
+.idea/
+build/
+target/
+
+
+# Global
+bin/
+
